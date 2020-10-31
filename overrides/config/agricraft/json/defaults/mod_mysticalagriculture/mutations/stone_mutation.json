@@ -1,0 +1,8 @@
+{
+  "path": "mod_mysticalagriculture/mutations/stone_mutation.json",
+  "enabled": true,
+  "chance": 0.5,
+  "child": "mysticalagriculture:stone_plant",
+  "parent1": "mysticalagriculture:fire_plant",
+  "parent2": "mysticalagriculture:water_plant"
+}

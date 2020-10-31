@@ -1,0 +1,8 @@
+{
+  "path": "mod_mysticalagriculture/mutations/basalt_mutation.json",
+  "enabled": true,
+  "chance": 0.5,
+  "child": "mysticalagriculture:basalt_plant",
+  "parent1": "mysticalagriculture:stone_plant",
+  "parent2": "mysticalagriculture:nether_plant"
+}

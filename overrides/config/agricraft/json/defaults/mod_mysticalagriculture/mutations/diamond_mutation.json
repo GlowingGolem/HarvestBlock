@@ -1,0 +1,8 @@
+{
+  "path": "mod_mysticalagriculture/mutations/diamond_mutation.json",
+  "enabled": true,
+  "chance": 0.1,
+  "child": "mysticalagriculture:diamond_plant",
+  "parent1": "mysticalagriculture:lapis_lazuli_plant",
+  "parent2": "mysticalagriculture:hop_graphite_plant"
+}

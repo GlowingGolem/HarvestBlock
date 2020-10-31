@@ -1,0 +1,8 @@
+{
+  "path": "mod_mysticalagriculture/mutations/end_mutation.json",
+  "enabled": true,
+  "chance": 0.2,
+  "child": "mysticalagriculture:end_plant",
+  "parent1": "mysticalagriculture:marble_plant",
+  "parent2": "mysticalagriculture:enderman_plant"
+}

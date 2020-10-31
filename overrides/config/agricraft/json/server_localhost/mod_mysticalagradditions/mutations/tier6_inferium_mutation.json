@@ -1,0 +1,8 @@
+{
+  "path": "mod_mysticalagradditions/mutations/tier6_inferium_mutation.json",
+  "enabled": true,
+  "chance": 0.05,
+  "child": "tier6_inferium_plant",
+  "parent1": "tier5_inferium_plant",
+  "parent2": "tier5_inferium_plant"
+}

@@ -1,0 +1,57 @@
+{
+	title: "Elven Portal",
+	icon: "botania:alfheimportal",
+	x: 0.0d,
+	y: 4.5d,
+	text: [
+		"Now you can create the elven portal to convert your mana resources into elementium resources. "
+	],
+	dependencies: [
+		"c7b61ef6"
+	],
+	tasks: [{
+		uid: "55219c4b",
+		type: "item",
+		items: [{
+			item: "botania:livingwood 1 5"
+		}],
+		count: 3L
+	},
+	{
+		uid: "3c47bd5e",
+		type: "item",
+		items: [{
+			item: "botania:alfheimportal"
+		}]
+	},
+	{
+		uid: "2d77ede4",
+		type: "item",
+		items: [{
+			item: "botania:pool"
+		}],
+		count: 2L
+	},
+	{
+		uid: "7fb3eed9",
+		type: "item",
+		items: [{
+			item: "botania:pylon 1 1"
+		}],
+		count: 2L
+	},
+	{
+		uid: "49da6f75",
+		type: "item",
+		items: [{
+			item: "botania:livingwood"
+		}],
+		count: 8L
+	}],
+	rewards: [{
+		uid: "09cf8ce2",
+		type: "item",
+		item: "customitems:glowing",
+		count: 5
+	}]
+}

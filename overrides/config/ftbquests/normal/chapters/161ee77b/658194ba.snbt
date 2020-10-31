@@ -1,0 +1,23 @@
+{
+	x: 2.5d,
+	y: 0.0d,
+	text: [
+		"Use on grass to grow mystical flowers"
+	],
+	dependencies: [
+		"3b6082ae"
+	],
+	tasks: [{
+		uid: "6fd81261",
+		type: "item",
+		items: [{
+			item: "botania:fertilizer"
+		}]
+	}],
+	rewards: [{
+		uid: "67be7c75",
+		type: "item",
+		item: "customitems:glowing",
+		count: 5
+	}]
+}

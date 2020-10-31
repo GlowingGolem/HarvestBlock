@@ -1,0 +1,18 @@
+{
+  "path": "mod_customitems/soils/tier_3_soil.json",
+  "enabled": true,
+  "id": "tier_3_soil",
+  "name": "Tier 3 Soil",
+  "varients": [
+    {
+      "item": "customitems:tier_3_soil",
+      "meta": 0,
+      "tags": "",
+      "ignoreMeta": true,
+      "ignoreTags": [
+        "*"
+      ],
+      "useOreDict": true
+    }
+  ]
+}

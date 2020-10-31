@@ -1,0 +1,32 @@
+{
+	title: "Auto Crafting",
+	icon: "appliedenergistics2:interface",
+	x: 16.0d,
+	y: 1.5d,
+	text: [
+		"Provide with patterns and it will auto craft items when requested."
+	],
+	dependencies: [
+		"6c569610"
+	],
+	tasks: [{
+		uid: "92ba0ad5",
+		type: "item",
+		items: [{
+			item: "appliedenergistics2:interface"
+		}]
+	},
+	{
+		uid: "dbf461e2",
+		type: "item",
+		items: [{
+			item: "appliedenergistics2:molecular_assembler"
+		}]
+	}],
+	rewards: [{
+		uid: "921fcae4",
+		type: "item",
+		item: "customitems:glowing",
+		count: 5
+	}]
+}

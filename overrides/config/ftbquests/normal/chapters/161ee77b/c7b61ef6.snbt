@@ -1,0 +1,23 @@
+{
+	x: 0.0d,
+	y: 3.0d,
+	text: [
+		"Terrasteel is created using a mana pearl, mana diamond and mana steel on the terrestrial agglomeration plate."
+	],
+	dependencies: [
+		"b2cc16a3"
+	],
+	tasks: [{
+		uid: "dc382c5c",
+		type: "item",
+		items: [{
+			item: "botania:manaresource 1 4"
+		}]
+	}],
+	rewards: [{
+		uid: "3859a52e",
+		type: "item",
+		item: "customitems:glowing",
+		count: 5
+	}]
+}

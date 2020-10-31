@@ -1,0 +1,23 @@
+{
+	x: 13.0d,
+	y: 0.0d,
+	text: [
+		"The brain of your ME system. Can be placed next to each other and give 32 channels from each side."
+	],
+	dependencies: [
+		"4b71fb8c"
+	],
+	tasks: [{
+		uid: "b837883e",
+		type: "item",
+		items: [{
+			item: "appliedenergistics2:controller"
+		}]
+	}],
+	rewards: [{
+		uid: "1816d603",
+		type: "item",
+		item: "customitems:glowing",
+		count: 10
+	}]
+}

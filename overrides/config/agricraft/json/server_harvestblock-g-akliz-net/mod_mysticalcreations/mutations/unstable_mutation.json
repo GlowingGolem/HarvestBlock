@@ -1,0 +1,8 @@
+{
+  "path": "mod_mysticalcreations/mutations/unstable_mutation.json",
+  "enabled": true,
+  "chance": 0.1,
+  "child": "mysticalcreations:unstable_plant",
+  "parent1": "mysticalagriculture:diamond_plant",
+  "parent2": "mysticalagriculture:iron_plant"
+}

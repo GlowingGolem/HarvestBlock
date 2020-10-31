@@ -1,0 +1,23 @@
+{
+	x: 2.0d,
+	y: 2.0d,
+	text: [
+		"Hydrates farmland in its range."
+	],
+	dependencies: [
+		"018dc81d"
+	],
+	tasks: [{
+		uid: "37182c6d",
+		type: "item",
+		items: [{
+			item: "industrialforegoing:hydrator"
+		}]
+	}],
+	rewards: [{
+		uid: "f5f849e2",
+		type: "item",
+		item: "customitems:glowing",
+		count: 5
+	}]
+}

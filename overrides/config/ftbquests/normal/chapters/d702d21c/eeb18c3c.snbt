@@ -1,0 +1,41 @@
+{
+	title: "Sheep",
+	icon: {
+		id: "minecraft:spawn_egg",
+		tag: {
+			EntityTag: {
+				id: "minecraft:sheep"
+			}
+		}
+	},
+	disable_toast: true,
+	x: 8.5d,
+	y: -0.5d,
+	text: [
+		"Mobs will spawn on grass or you can use these"
+	],
+	can_repeat: true,
+	optional: true,
+	tasks: [{
+		uid: "e942218a",
+		type: "item",
+		items: [{
+			item: "customitems:glowing"
+		}],
+		count: 64L,
+		consume_items: true
+	}],
+	rewards: [{
+		uid: "f7af30e5",
+		type: "item",
+		item: {
+			id: "minecraft:spawn_egg",
+			tag: {
+				EntityTag: {
+					id: "minecraft:sheep"
+				}
+			}
+		},
+		count: 2
+	}]
+}

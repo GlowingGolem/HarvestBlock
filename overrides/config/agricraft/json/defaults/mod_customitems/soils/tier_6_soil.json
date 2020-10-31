@@ -1,0 +1,18 @@
+{
+  "path": "mod_customitems/soils/tier_6_soil.json",
+  "enabled": true,
+  "id": "tier_6_soil",
+  "name": "Tier 6 Soil",
+  "varients": [
+    {
+      "item": "customitems:tier_6_soil",
+      "meta": 0,
+      "tags": "",
+      "ignoreMeta": true,
+      "ignoreTags": [
+        "*"
+      ],
+      "useOreDict": true
+    }
+  ]
+}

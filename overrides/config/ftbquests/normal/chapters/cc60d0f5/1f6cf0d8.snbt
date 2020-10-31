@@ -1,0 +1,16 @@
+{
+	x: 0.0d,
+	y: 1.5d,
+	text: [
+		"Holding shift will grow crops faster."
+	],
+	dependencies: [
+		"7287aa72"
+	],
+	tasks: [{
+		uid: "25ca95b6",
+		type: "checkmark",
+		title: "Crop Dusting",
+		icon: "minecraft:wheat_seeds"
+	}]
+}

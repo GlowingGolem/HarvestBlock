@@ -1,0 +1,25 @@
+{
+	x: 3.5d,
+	y: 4.5d,
+	text: [
+		"Astral Sorcery Marble is required. Other marble doesn't work. You can craft using 8 marble essence and 1 aquamarine essence or you can convert other marble using the chisel."
+	],
+	dependencies: [
+		"50b27c65"
+	],
+	tasks: [{
+		uid: "771891cc",
+		type: "item",
+		items: [{
+			item: "astralsorcery:blockmarble"
+		}],
+		count: 8L,
+		ignore_nbt: 1b
+	}],
+	rewards: [{
+		uid: "297a9559",
+		type: "item",
+		item: "customitems:glowing",
+		count: 5
+	}]
+}

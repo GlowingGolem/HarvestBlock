@@ -1,0 +1,23 @@
+{
+	x: 0.0d,
+	y: 0.0d,
+	text: [
+		"You will need to progress in botania until you can obtain elementium."
+	],
+	dependencies: [
+		"74c28c8e"
+	],
+	tasks: [{
+		uid: "3d4f109e",
+		type: "item",
+		items: [{
+			item: "bloodmagic:altar"
+		}]
+	}],
+	rewards: [{
+		uid: "9bb78232",
+		type: "item",
+		item: "customitems:glowing",
+		count: 5
+	}]
+}

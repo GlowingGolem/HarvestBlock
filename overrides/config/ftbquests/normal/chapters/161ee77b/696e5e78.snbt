@@ -1,0 +1,23 @@
+{
+	x: 5.0d,
+	y: 4.5d,
+	text: [
+		"Used to create runes. Requires livingrock and right click with wand after complete."
+	],
+	dependencies: [
+		"5d5acbd3"
+	],
+	tasks: [{
+		uid: "eb575283",
+		type: "item",
+		items: [{
+			item: "botania:runealtar"
+		}]
+	}],
+	rewards: [{
+		uid: "1974c679",
+		type: "item",
+		item: "customitems:glowing",
+		count: 5
+	}]
+}

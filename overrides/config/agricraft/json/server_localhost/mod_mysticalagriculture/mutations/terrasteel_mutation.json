@@ -1,0 +1,8 @@
+{
+  "path": "mod_mysticalagriculture/mutations/terrasteel_mutation.json",
+  "enabled": true,
+  "chance": 0.2,
+  "child": "mysticalagriculture:terrasteel_plant",
+  "parent1": "mysticalagriculture:manasteel_plant",
+  "parent2": "mysticalagriculture:steel_plant"
+}

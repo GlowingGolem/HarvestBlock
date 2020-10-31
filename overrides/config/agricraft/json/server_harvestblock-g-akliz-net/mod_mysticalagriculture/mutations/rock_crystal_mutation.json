@@ -1,0 +1,8 @@
+{
+  "path": "mod_mysticalagriculture/mutations/rock_crystal_mutation.json",
+  "enabled": true,
+  "chance": 0.2,
+  "child": "mysticalagriculture:rock_crystal_plant",
+  "parent1": "mysticalagriculture:starmetal_plant",
+  "parent2": "mysticalagriculture:marble_plant"
+}

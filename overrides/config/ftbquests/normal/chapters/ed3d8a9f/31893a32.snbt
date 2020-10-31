@@ -1,0 +1,22 @@
+{
+	x: 3.0d,
+	y: -1.5d,
+	text: [
+		"Things start to get complicated from here an jei can only help so much. This book has some information but you may also need to look things up."
+	],
+	dependencies: [
+		"b1c4d907"
+	],
+	tasks: [{
+		uid: "a0c29765",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				"astralsorcery:cap_item_amulet_holder": {}
+			},
+			id: "guideapi:bloodmagic-guide"
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	}]
+}
