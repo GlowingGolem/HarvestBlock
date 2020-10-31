@@ -1,8 +1,0 @@
-{
-  "path": "mod_mysticalcreations/mutations/luminessence_mutation.json",
-  "enabled": true,
-  "chance": 0.05,
-  "child": "mysticalcreations:luminessence_plant",
-  "parent1": "mysticalagriculture:glowstone_plant",
-  "parent2": "mysticalagriculture:redstone_plant"
-}

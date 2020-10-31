@@ -1,8 +1,0 @@
-{
-  "path": "mod_mysticalcreations/mutations/gaia_mutation.json",
-  "enabled": true,
-  "chance": 0.01,
-  "child": "mysticalcreations:gaia_plant",
-  "parent1": "mysticalagriculture:terrasteel_plant",
-  "parent2": "mysticalagriculture:elementium_plant"
-}

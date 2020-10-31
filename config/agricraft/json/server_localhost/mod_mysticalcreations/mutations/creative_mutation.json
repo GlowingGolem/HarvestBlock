@@ -1,0 +1,8 @@
+{
+  "path": "mod_mysticalcreations/mutations/creative_mutation.json",
+  "enabled": true,
+  "chance": 0.01,
+  "child": "mysticalcreations:creative_plant",
+  "parent1": "mysticalcreations:ultimate_plant",
+  "parent2": "mysticalcreations:crystaltine_plant"
+}

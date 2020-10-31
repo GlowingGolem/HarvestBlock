@@ -1,8 +1,0 @@
-{
-  "path": "mod_mysticalagriculture/mutations/emerald_mutation.json",
-  "enabled": true,
-  "chance": 0.1,
-  "child": "mysticalagriculture:emerald_plant",
-  "parent1": "mysticalagriculture:diamond_plant",
-  "parent2": "mysticalagriculture:pulsating_iron_plant"
-}

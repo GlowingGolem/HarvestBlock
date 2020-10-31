@@ -1,8 +1,0 @@
-{
-  "path": "mod_mysticalagriculture/mutations/glowstone_mutation.json",
-  "enabled": true,
-  "chance": 0.25,
-  "child": "mysticalagriculture:glowstone_plant",
-  "parent1": "mysticalagriculture:fire_plant",
-  "parent2": "mysticalagriculture:nether_plant"
-}

@@ -1,8 +1,0 @@
-{
-  "path": "mod_mysticalagriculture/mutations/fluix_mutation.json",
-  "enabled": true,
-  "chance": 0.2,
-  "child": "mysticalagriculture:fluix_plant",
-  "parent1": "mysticalagriculture:certus_quartz_plant",
-  "parent2": "mysticalagriculture:redstone_plant"
-}

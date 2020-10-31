@@ -1,8 +1,0 @@
-{
-  "path": "mod_mysticalagriculture/mutations/aluminum_mutation.json",
-  "enabled": true,
-  "chance": 0.5,
-  "child": "mysticalagriculture:aluminum_plant",
-  "parent1": "mysticalagriculture:stone_plant",
-  "parent2": "mysticalagriculture:silicon_plant"
-}

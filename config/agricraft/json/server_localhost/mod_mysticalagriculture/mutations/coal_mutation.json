@@ -1,0 +1,8 @@
+{
+  "path": "mod_mysticalagriculture/mutations/coal_mutation.json",
+  "enabled": true,
+  "chance": 0.5,
+  "child": "mysticalagriculture:coal_plant",
+  "parent1": "mysticalagriculture:wood_plant",
+  "parent2": "mysticalagriculture:fire_plant"
+}

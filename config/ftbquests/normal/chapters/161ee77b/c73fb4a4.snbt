@@ -1,0 +1,47 @@
+{
+	title: "Guardian of Gaia",
+	icon: "botania:gaiahead",
+	x: 0.0d,
+	y: 1.5d,
+	text: [
+		"Collect these items and you will be able to spawn the gaia. Look at the Lexica Botania to find where to place them. You will need a large platform."
+	],
+	dependencies: [
+		"c7b61ef6"
+	],
+	tasks: [{
+		uid: "51d1fa3f",
+		type: "kill",
+		entity: "botania:doppleganger",
+		value: 1L
+	},
+	{
+		uid: "0d404612",
+		type: "item",
+		items: [{
+			item: "botania:pylon 1 2"
+		}],
+		count: 4L
+	},
+	{
+		uid: "38ebbd88",
+		type: "item",
+		items: [{
+			item: "minecraft:beacon"
+		}]
+	},
+	{
+		uid: "f88bab0b",
+		type: "item",
+		items: [{
+			item: "minecraft:iron_block"
+		}],
+		count: 9L
+	}],
+	rewards: [{
+		uid: "d2b6ff7e",
+		type: "item",
+		item: "customitems:glowing",
+		count: 10
+	}]
+}

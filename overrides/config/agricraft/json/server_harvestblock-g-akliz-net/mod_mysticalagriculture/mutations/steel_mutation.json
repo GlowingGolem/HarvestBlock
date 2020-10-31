@@ -1,8 +1,0 @@
-{
-  "path": "mod_mysticalagriculture/mutations/steel_mutation.json",
-  "enabled": true,
-  "chance": 0.2,
-  "child": "mysticalagriculture:steel_plant",
-  "parent1": "mysticalagriculture:iron_plant",
-  "parent2": "mysticalagriculture:electrical_steel_plant"
-}

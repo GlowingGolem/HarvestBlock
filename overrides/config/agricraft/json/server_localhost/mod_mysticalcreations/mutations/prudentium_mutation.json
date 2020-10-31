@@ -1,8 +1,0 @@
-{
-  "path": "mod_mysticalcreations/mutations/prudentium_mutation.json",
-  "enabled": true,
-  "chance": 0.01,
-  "child": "mysticalcreations:prudentium_plant",
-  "parent1": "tier6_inferium_plant",
-  "parent2": "tier6_inferium_plant"
-}

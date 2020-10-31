@@ -1,0 +1,8 @@
+{
+  "path": "mod_mysticalagriculture/mutations/nickel_mutation.json",
+  "enabled": true,
+  "chance": 0.2,
+  "child": "mysticalagriculture:nickel_plant",
+  "parent1": "mysticalagriculture:iron_plant",
+  "parent2": "mysticalagriculture:gold_plant"
+}

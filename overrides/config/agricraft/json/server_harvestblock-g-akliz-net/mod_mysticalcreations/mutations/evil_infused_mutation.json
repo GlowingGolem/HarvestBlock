@@ -1,8 +1,0 @@
-{
-  "path": "mod_mysticalcreations/mutations/evil_infused_mutation.json",
-  "enabled": true,
-  "chance": 0.05,
-  "child": "mysticalcreations:evil_infused_plant",
-  "parent1": "mysticalagradditions:nether_star_plant",
-  "parent2": "mysticalagriculture:iron_plant"
-}

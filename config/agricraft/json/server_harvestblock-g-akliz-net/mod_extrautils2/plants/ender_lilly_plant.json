@@ -1,0 +1,73 @@
+{
+  "path": "mod_extrautils2/plants/ender_lilly_plant.json",
+  "enabled": true,
+  "id": "extrautils2:ender_lilly_plant",
+  "plant_name": "Ender Lilly",
+  "seed_name": "Ender Lilly",
+  "seed_items": [
+    {
+      "item": "extrautils2:enderlilly",
+      "meta": 0,
+      "tags": "",
+      "ignoreMeta": false,
+      "ignoreTags": [
+        "*"
+      ],
+      "useOreDict": false
+    }
+  ],
+  "description": {
+    "translations": {},
+    "default": "Ender Lilly"
+  },
+  "growth_chance": 0.4,
+  "growth_bonus": 0.025,
+  "bonemeal": false,
+  "tier": 1,
+  "weedable": false,
+  "aggressive": false,
+  "spread_chance": 0.1,
+  "spawn_chance": 0.0,
+  "grass_drop_chance": 0.0,
+  "seed_drop_chance": 1.0,
+  "seed_drop_bonus": 0.0,
+  "products": {
+    "products": [
+      {
+        "min": 1,
+        "max": 1,
+        "chance": 1.0,
+        "required": true,
+        "item": "minecraft:ender_pearl",
+        "meta": 0,
+        "tags": "",
+        "ignoreMeta": false,
+        "ignoreTags": [],
+        "useOreDict": false
+      }
+    ]
+  },
+  "requirement": {
+    "min_light": 9,
+    "max_light": 16,
+    "soils": [
+      "farmland_soil",
+      "end_stone_soil"
+    ],
+    "conditions": []
+  },
+  "texture": {
+    "render_type": "cross",
+    "seed_texture": "extrautils2:items/ender_lilly_stage_0",
+    "plant_textures": [
+      "extrautils2:plants/ender_lilly_stage_0",
+      "extrautils2:plants/ender_lilly_stage_1",
+      "extrautils2:plants/ender_lilly_stage_2",
+      "extrautils2:plants/ender_lilly_stage_3",
+      "extrautils2:plants/ender_lilly_stage_4",
+      "extrautils2:plants/ender_lilly_stage_5",
+      "extrautils2:plants/ender_lilly_stage_6",
+      "extrautils2:plants/ender_lilly_stage_7"
+    ]
+  }
+}

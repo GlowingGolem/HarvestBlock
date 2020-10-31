@@ -1,0 +1,24 @@
+{
+	x: -1.5d,
+	y: -0.5d,
+	text: [
+		"All mystical agriculture seeds require the soil of their tier or higher. Start by crafting Tier 1 Soil."
+	],
+	dependencies: [
+		"20df4e82"
+	],
+	size: 3.0d,
+	tasks: [{
+		uid: "0033eb87",
+		type: "item",
+		items: [{
+			item: "customitems:tier_1_soil"
+		}]
+	}],
+	rewards: [{
+		uid: "5468deda",
+		type: "item",
+		item: "customitems:glowing",
+		count: 10
+	}]
+}

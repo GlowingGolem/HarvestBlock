@@ -1,0 +1,8 @@
+{
+  "path": "mod_mysticalagriculture/mutations/iron_mutation.json",
+  "enabled": true,
+  "chance": 0.25,
+  "child": "mysticalagriculture:iron_plant",
+  "parent1": "mysticalagriculture:aluminum_plant",
+  "parent2": "mysticalagriculture:copper_plant"
+}

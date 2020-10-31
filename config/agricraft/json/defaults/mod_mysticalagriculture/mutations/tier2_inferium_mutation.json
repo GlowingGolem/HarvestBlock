@@ -1,0 +1,8 @@
+{
+  "path": "mod_mysticalagriculture/mutations/tier2_inferium_mutation.json",
+  "enabled": true,
+  "chance": 0.5,
+  "child": "tier2_inferium_plant",
+  "parent1": "tier1_inferium_plant",
+  "parent2": "tier1_inferium_plant"
+}

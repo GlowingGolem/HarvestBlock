@@ -1,8 +1,0 @@
-{
-  "path": "mod_mysticalcreations/mutations/enchanted_mutation.json",
-  "enabled": true,
-  "chance": 0.1,
-  "child": "mysticalcreations:enchanted_plant",
-  "parent1": "mysticalagriculture:gold_plant",
-  "parent2": "mysticalagriculture:lapis_lazuli_plant"
-}

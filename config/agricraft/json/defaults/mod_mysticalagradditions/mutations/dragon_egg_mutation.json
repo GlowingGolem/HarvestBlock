@@ -1,0 +1,8 @@
+{
+  "path": "mod_mysticalagradditions/mutations/dragon_egg_mutation.json",
+  "enabled": true,
+  "chance": 0.05,
+  "child": "mysticalagradditions:dragon_egg_plant",
+  "parent1": "mysticalagriculture:end_plant",
+  "parent2": "mysticalagriculture:enderman_plant"
+}

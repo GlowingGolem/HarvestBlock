@@ -1,8 +1,0 @@
-{
-  "path": "mod_mysticalcreations/mutations/livingwood_mutation.json",
-  "enabled": true,
-  "chance": 0.25,
-  "child": "mysticalcreations:livingwood_plant",
-  "parent1": "mysticalagriculture:wood_plant",
-  "parent2": "mysticalagriculture:basalt_plant"
-}

@@ -1,8 +1,0 @@
-{
-  "path": "mod_mysticalcreations/mutations/superium_mutation.json",
-  "enabled": true,
-  "chance": 0.05,
-  "child": "mysticalcreations:superium_plant",
-  "parent1": "mysticalcreations:intermedium_plant",
-  "parent2": "mysticalcreations:intermedium_plant"
-}

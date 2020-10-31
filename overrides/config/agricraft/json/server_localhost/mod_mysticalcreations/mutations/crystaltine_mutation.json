@@ -1,8 +1,0 @@
-{
-  "path": "mod_mysticalcreations/mutations/crystaltine_mutation.json",
-  "enabled": true,
-  "chance": 0.01,
-  "child": "mysticalcreations:crystaltine_plant",
-  "parent1": "mysticalagriculture:diamond_plant",
-  "parent2": "mysticalagriculture:lapis_lazuli_plant"
-}

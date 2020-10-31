@@ -1,8 +1,0 @@
-{
-  "path": "mod_mysticalcreations/mutations/prosperity_mutation.json",
-  "enabled": true,
-  "chance": 0.5,
-  "child": "mysticalcreations:prosperity_plant",
-  "parent1": "tier1_inferium_plant",
-  "parent2": "mysticalagriculture:marble_plant"
-}

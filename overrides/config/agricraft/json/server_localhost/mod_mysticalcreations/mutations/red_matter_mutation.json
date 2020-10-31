@@ -1,8 +1,0 @@
-{
-  "path": "mod_mysticalcreations/mutations/red_matter_mutation.json",
-  "enabled": true,
-  "chance": 0.01,
-  "child": "mysticalcreations:red_matter_plant",
-  "parent1": "mysticalcreations:dark_matter_plant",
-  "parent2": "mysticalagriculture:diamond_plant"
-}

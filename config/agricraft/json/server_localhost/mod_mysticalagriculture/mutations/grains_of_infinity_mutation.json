@@ -1,0 +1,8 @@
+{
+  "path": "mod_mysticalagriculture/mutations/grains_of_infinity_mutation.json",
+  "enabled": true,
+  "chance": 0.5,
+  "child": "mysticalagriculture:grains_of_infinity_plant",
+  "parent1": "mysticalagriculture:fire_plant",
+  "parent2": "mysticalagriculture:silicon_plant"
+}

@@ -1,0 +1,8 @@
+{
+  "path": "mod_mysticalcreations/mutations/ender_mutation.json",
+  "enabled": true,
+  "chance": 0.1,
+  "child": "mysticalcreations:ender_plant",
+  "parent1": "mysticalagriculture:iron_plant",
+  "parent2": "mysticalagriculture:enderman_plant"
+}

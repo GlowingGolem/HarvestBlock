@@ -1,8 +1,0 @@
-{
-  "path": "mod_mysticalcreations/mutations/iron_alloy_mutation.json",
-  "enabled": true,
-  "chance": 0.2,
-  "child": "mysticalcreations:iron_alloy_plant",
-  "parent1": "mysticalagriculture:iron_plant",
-  "parent2": "mysticalagriculture:nickel_plant"
-}

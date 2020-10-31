@@ -1,8 +1,0 @@
-{
-  "path": "mod_mysticalcreations/mutations/livingrock_mutation.json",
-  "enabled": true,
-  "chance": 0.25,
-  "child": "mysticalcreations:livingrock_plant",
-  "parent1": "mysticalagriculture:limestone_plant",
-  "parent2": "mysticalagriculture:marble_plant"
-}

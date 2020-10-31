@@ -1,0 +1,23 @@
+{
+	x: 2.0d,
+	y: 5.0d,
+	text: [
+		"Interacts with animals like shearing sheep and milking cows."
+	],
+	dependencies: [
+		"018dc81d"
+	],
+	tasks: [{
+		uid: "c75aafc1",
+		type: "item",
+		items: [{
+			item: "industrialforegoing:animal_resource_harvester"
+		}]
+	}],
+	rewards: [{
+		uid: "6639913d",
+		type: "item",
+		item: "customitems:glowing",
+		count: 5
+	}]
+}

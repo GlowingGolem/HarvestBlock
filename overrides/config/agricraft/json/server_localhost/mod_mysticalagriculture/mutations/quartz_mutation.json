@@ -1,8 +1,0 @@
-{
-  "path": "mod_mysticalagriculture/mutations/quartz_mutation.json",
-  "enabled": true,
-  "chance": 0.25,
-  "child": "mysticalagriculture:nether_quartz_plant",
-  "parent1": "mysticalagriculture:nether_plant",
-  "parent2": "mysticalagriculture:iron_plant"
-}

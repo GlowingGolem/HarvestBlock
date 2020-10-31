@@ -1,0 +1,8 @@
+{
+  "path": "vanilla/mutations/potato_mutation.json",
+  "enabled": true,
+  "chance": 0.75,
+  "child": "vanilla:potato_plant",
+  "parent1": "vanilla:wheat_plant",
+  "parent2": "mysticalagriculture:dirt_plant"
+}

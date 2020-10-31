@@ -1,0 +1,8 @@
+{
+  "path": "mod_mysticalagriculture/mutations/certus_quartz_mutation.json",
+  "enabled": true,
+  "chance": 0.25,
+  "child": "mysticalagriculture:certus_quartz_plant",
+  "parent1": "mysticalagriculture:nether_quartz_plant",
+  "parent2": "mysticalagriculture:marble_plant"
+}

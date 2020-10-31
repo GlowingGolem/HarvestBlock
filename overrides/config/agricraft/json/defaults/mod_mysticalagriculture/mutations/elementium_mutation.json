@@ -1,8 +1,0 @@
-{
-  "path": "mod_mysticalagriculture/mutations/elementium_mutation.json",
-  "enabled": true,
-  "chance": 0.1,
-  "child": "mysticalagriculture:elementium_plant",
-  "parent1": "mysticalagriculture:terrasteel_plant",
-  "parent2": "mysticalagriculture:steel_plant"
-}

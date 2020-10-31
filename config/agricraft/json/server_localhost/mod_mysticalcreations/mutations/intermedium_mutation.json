@@ -1,0 +1,8 @@
+{
+  "path": "mod_mysticalcreations/mutations/intermedium_mutation.json",
+  "enabled": true,
+  "chance": 0.01,
+  "child": "mysticalcreations:intermedium_plant",
+  "parent1": "mysticalcreations:prudentium_plant",
+  "parent2": "mysticalcreations:prudentium_plant"
+}

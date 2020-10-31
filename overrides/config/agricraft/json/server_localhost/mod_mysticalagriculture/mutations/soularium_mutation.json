@@ -1,8 +1,0 @@
-{
-  "path": "mod_mysticalagriculture/mutations/soularium_mutation.json",
-  "enabled": true,
-  "chance": 0.2,
-  "child": "mysticalagriculture:soularium_plant",
-  "parent1": "mysticalagriculture:nether_plant",
-  "parent2": "mysticalagriculture:gold_plant"
-}

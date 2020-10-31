@@ -1,0 +1,8 @@
+{
+  "path": "mod_mysticalcreations/mutations/insanium_mutation.json",
+  "enabled": true,
+  "chance": 0.05,
+  "child": "mysticalcreations:insanium_plant",
+  "parent1": "mysticalcreations:supremium_plant",
+  "parent2": "mysticalcreations:supremium_plant"
+}

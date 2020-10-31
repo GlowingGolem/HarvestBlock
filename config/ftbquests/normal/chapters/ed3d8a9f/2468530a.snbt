@@ -1,0 +1,23 @@
+{
+	x: 1.5d,
+	y: 1.5d,
+	text: [
+		"Slates are used for runes you will need these to tier up your altar."
+	],
+	dependencies: [
+		"b1c4d907"
+	],
+	tasks: [{
+		uid: "9668aaca",
+		type: "item",
+		items: [{
+			item: "bloodmagic:slate"
+		}]
+	}],
+	rewards: [{
+		uid: "86676790",
+		type: "item",
+		item: "customitems:glowing",
+		count: 5
+	}]
+}

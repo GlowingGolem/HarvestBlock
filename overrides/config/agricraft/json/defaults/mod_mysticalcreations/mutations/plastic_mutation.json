@@ -1,8 +1,0 @@
-{
-  "path": "mod_mysticalcreations/mutations/plastic_mutation.json",
-  "enabled": true,
-  "chance": 0.25,
-  "child": "mysticalcreations:plastic_plant",
-  "parent1": "mysticalagriculture:silicon_plant",
-  "parent2": "mysticalagriculture:wood_plant"
-}

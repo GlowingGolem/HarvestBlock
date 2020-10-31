@@ -1,8 +1,0 @@
-{
-  "path": "mod_mysticalcreations/mutations/black_iron_mutation.json",
-  "enabled": true,
-  "chance": 0.1,
-  "child": "mysticalcreations:black_iron_plant",
-  "parent1": "mysticalagriculture:obsidian_plant",
-  "parent2": "mysticalagriculture:iron_plant"
-}

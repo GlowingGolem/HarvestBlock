@@ -1,0 +1,23 @@
+{
+	x: -3.0d,
+	y: -2.0d,
+	text: [
+		"Right Click in your ingredients then set alight with a flint and steel."
+	],
+	dependencies: [
+		"9a1ea07d"
+	],
+	tasks: [{
+		uid: "a129044a",
+		type: "item",
+		items: [{
+			item: "roots:bonfire"
+		}]
+	}],
+	rewards: [{
+		uid: "cc39dea1",
+		type: "item",
+		item: "customitems:glowing",
+		count: 5
+	}]
+}

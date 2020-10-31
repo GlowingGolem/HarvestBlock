@@ -1,8 +1,0 @@
-{
-  "path": "mod_mysticalagriculture/mutations/dark_steel_mutation.json",
-  "enabled": true,
-  "chance": 0.2,
-  "child": "mysticalagriculture:dark_steel_plant",
-  "parent1": "mysticalagriculture:electrical_steel_plant",
-  "parent2": "mysticalagriculture:obsidian_plant"
-}

@@ -1,8 +1,0 @@
-{
-  "path": "mod_mysticalagriculture/mutations/yellorium_mutation.json",
-  "enabled": true,
-  "chance": 0.1,
-  "child": "mysticalagriculture:yellorium_plant",
-  "parent1": "mysticalagriculture:gold_plant",
-  "parent2": "mysticalagriculture:uranium_plant"
-}

@@ -1,0 +1,8 @@
+{
+  "path": "mod_mysticalcreations/mutations/dark_matter_mutation.json",
+  "enabled": true,
+  "chance": 0.01,
+  "child": "mysticalcreations:dark_matter_plant",
+  "parent1": "mysticalagriculture:diamond_plant",
+  "parent2": "mysticalcreations:gaia_plant"
+}

@@ -1,8 +1,0 @@
-{
-  "path": "mod_mysticalagriculture/mutations/starmetal_mutation.json",
-  "enabled": true,
-  "chance": 0.2,
-  "child": "mysticalagriculture:starmetal_plant",
-  "parent1": "mysticalagriculture:terrasteel_plant",
-  "parent2": "mysticalagriculture:aquamarine_plant"
-}

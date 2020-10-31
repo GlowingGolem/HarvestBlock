@@ -1,8 +1,0 @@
-{
-  "path": "mod_mysticalcreations/mutations/ultimate_mutation.json",
-  "enabled": true,
-  "chance": 0.01,
-  "child": "mysticalcreations:ultimate_plant",
-  "parent1": "mysticalcreations:dark_matter_plant",
-  "parent2": "mysticalcreations:red_matter_plant"
-}

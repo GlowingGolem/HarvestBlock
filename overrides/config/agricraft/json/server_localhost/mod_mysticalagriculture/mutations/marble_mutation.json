@@ -1,8 +1,0 @@
-{
-  "path": "mod_mysticalagriculture/mutations/marble_mutation.json",
-  "enabled": true,
-  "chance": 0.5,
-  "child": "mysticalagriculture:marble_plant",
-  "parent1": "mysticalagriculture:stone_plant",
-  "parent2": "mysticalagriculture:ice_plant"
-}

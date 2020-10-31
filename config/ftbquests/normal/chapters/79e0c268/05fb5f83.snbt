@@ -1,0 +1,23 @@
+{
+	x: 6.0d,
+	y: 0.0d,
+	text: [
+		"Generates cobblestone and various stages can be added, e.g. crushing, smelting"
+	],
+	dependencies: [
+		"cfdf51fb"
+	],
+	tasks: [{
+		uid: "cd834fac",
+		type: "item",
+		items: [{
+			item: "industrialforegoing:material_stonework_factory"
+		}]
+	}],
+	rewards: [{
+		uid: "cb57dd3c",
+		type: "item",
+		item: "customitems:glowing",
+		count: 10
+	}]
+}
